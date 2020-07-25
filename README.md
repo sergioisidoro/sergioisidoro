@@ -1,7 +1,7 @@
 ![](https://media0.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif?cid=ecf05e47759b6ad13f2536e2ecacb48f6032de634c441698&rid=giphy.gif)
 
 Wanna share something about me? 
-Edit the readme and open a pull request at [here](https://github.com/sergioisidoro/sergioisidoro) 
+Edit the readme and open a pull request [here](https://github.com/sergioisidoro/sergioisidoro) 
 
 You can write:
 - recommendations and feedback
