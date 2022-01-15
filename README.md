@@ -1,4 +1,4 @@
-![](https://media0.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif?cid=ecf05e47759b6ad13f2536e2ecacb48f6032de634c441698&rid=giphy.gif)
+![tofran's github status](https://github-readme-stats.vercel.app/api?username=sergioisidoro&show_icons=true&theme=dark&hide_border=true)
 
 <!--
 **sergioisidoro/sergioisidoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
